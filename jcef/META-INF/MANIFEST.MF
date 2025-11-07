@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: jcef
+Created-By: 1.8.0_345 (Temurin)
+
